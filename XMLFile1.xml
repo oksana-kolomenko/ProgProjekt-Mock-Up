@@ -1,0 +1,6 @@
+﻿<Window x:Class="Mock_Up_PP.NewWindow"
+        Title="New Window" Height="300" Width="400">
+	<Grid>
+		<!-- Add your content here -->
+	</Grid>
+</Window>
